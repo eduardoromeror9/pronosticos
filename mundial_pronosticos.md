@@ -1,13 +1,14 @@
 
 
+
 # Mundial de pronosticos 2021 #
 
-* Jornadas 7
-* Juegos 15
+* Jornadas 8
+* Juegos 18
 
-1. DA King 15-10
-2. Erycherd 15-10
-3. Mini Papamore 15-10
-4. EHA 15-9
-5. Steven 15-8
-6. CR96 15-7
+1. Erycherd 18-12
+2. DA King 18-11
+3. EHA 18-11
+4. Mini Papamore 18-11 --> le falta arizona
+5. Steven 18-10
+6. CR96 18-9
