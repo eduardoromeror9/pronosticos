@@ -3,13 +3,16 @@
 
 # Mundial de pronosticos 2021 #
 
-* Jornadas 8
-* Juegos 18
-* Jornada del miercoles suspendida (((((Peticion del pueblo)))))
+* Jornadas 9
+* Juegos 20
+* Especiales 1 de 2J
 
-1. Erycherd 18-12
-2. DA King 18-11
-3. Mini Papamore 18-11
-4. EHA 18-11
-5. Steven 18-10
-6. CR96 18-9
+1. Erycherd 20-13
+2. Mini Papamore 20-13 
+3. DA King 20-12
+4. Steven 20-12
+5. CR96 20-11 
+
+
+
+0. EHA 18-11 se hizo 💩💩💩💩💩💩💩
