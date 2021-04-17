@@ -3,16 +3,15 @@
 
 # Mundial de pronosticos 2021 #
 
-* Jornadas 9
-* Juegos 20
+* Jornadas 10
+* Juegos 23
 * Especiales 1 de 2J
 
-1. Erycherd 20-13
-2. Mini Papamore 20-13 
-3. DA King 20-12
-4. Steven 20-12
-5. CR96 20-11 
+1. DA King 23-14
+2. Erycherd 23-14
+3. MiniOmar 23-14
+4. Steven 23-14 *
+5. CR96 22-13 (debe uno)
 
 
-
-0. EHA 18-11 se hizo 💩💩💩💩💩💩💩
+0. Carlos(retiro)Jose 18-11 se hizo 💩💩💩
