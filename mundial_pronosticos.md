@@ -3,15 +3,13 @@
 
 # Mundial de pronosticos 2021 #
 
-* Jornadas 11
-* Juegos 24
+* Jornadas 12
+* Juegos 27
 * Especiales 1 de 2J
 
-1. Aduardo 24-15
-2. Daniel 24-15
-3. Erycherd 23-14 (debe 1)
-4. Steven 24-14 *
-5. Christian 22-13 (debe 2)
-
-
-0. Carlos(retiro)Jose 18-11 se hizo 💩💩💩
+1. Eduardo 27-16
+2. Daniel 27-15
+3. Christian 27-14
+4. Erycherd 23-14 (debe 4)
+5. Steven 27-14
+6. Don Carlos Jose 24-11 (debe 3)
