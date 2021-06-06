@@ -9,7 +9,7 @@ Juegos 92
 # StevenTrampa (debe 1)
 
 
-# Posiciones #       |   DIF   |  PCT   |
+# Posiciones #        |   DIF   |  PCT   |
 ------------------------------------------
 1- Eduardo    92-55   |    -    |  600  K|
 2- Christian  92-54   |    1    |  590   |
@@ -18,7 +18,7 @@ Juegos 92
 5- Kleydi     92-51   |    4    |  555   |
 6- Daniel     92-47   |    8    |  510   |
 7- Steven     91-45   |    10   |  495  *|
-8- OscarG     10-03   |    -    |  000   |
+8- OscarG     10-07   |    -    |  000   |
 ------------------------------------------
 
 # K = 🦅 no caza 🦟
@@ -27,10 +27,3 @@ Juegos 92
 # C = En consulta medica
 # R = Rehabilitacion
 # * = Unidad de cuidados intensivos (UCI)
-
-# OscarG
-Mets
-milwaukee
-tampa
-phillies
-astros 
