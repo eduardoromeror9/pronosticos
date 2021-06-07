@@ -4,21 +4,20 @@
 
 # Mundial de Pronosticos #
 
-Jornadas 37
-Juegos 92
-# StevenTrampa (debe 1)
+Jornadas 38
+Juegos 94
 
 
 # Posiciones #        |   DIF   |  PCT   |
 ------------------------------------------
-1- Eduardo    92-55   |    -    |  600  K|
-2- Christian  92-54   |    1    |  590   |
-3- CarlosJose 92-53   |    2    |  580   |
-4- Erycherd   92-51   |    4    |  555   |
-5- Kleydi     92-51   |    4    |  555   |
-6- Daniel     92-47   |    8    |  510   |
-7- Steven     91-45   |    10   |  495  *|
-8- OscarG     10-07   |    -    |  000   |
+1- AlKing     94-56   |    -    |  595  K|
+2- Christian  94-56   |    -    |  595   |
+3- CarlosJose 94-55   |    1    |  585   |
+4- Kleydi     94-52   |    4    |  550   |
+5- Erycherd   94-51   |    5    |  540   |
+6- Daniel     94-49   |    7    |  520   |
+7- Steven     94-45   |    11   |  480  *|
+8- OscarG     15-11   |    -    |  000   |
 ------------------------------------------
 
 # K = 🦅 no caza 🦟
