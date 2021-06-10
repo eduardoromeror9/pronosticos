@@ -4,20 +4,20 @@
 
 # Mundial de Pronosticos #
 
-Jornadas 39
-Juegos 97
+Jornadas 40
+Juegos 100
 
 
-# Posiciones #        |   DIF   |  PCT   |
+# Posiciones #         |  DIF  |  PCT    |
 ------------------------------------------
-1- Eduardo    97-59   |    -    |  610  K|
-2- Christian  97-58   |    1    |  600   |
-3- CarlosJose 97-57   |    2    |  590   |
-4- Kleydi     97-55   |    4    |  570   |
-5- Daniel     97-52   |    7    |  540   |
-6- Erycherd   97-51   |    8    |  525   |
-7- Steven     97-48   |    11   |  495  *|
-8- OscarG     18-13   |    -    |  000   |
+1- Eduardo    100-61   |   -   |  610  K |
+2- Christian  100-59   |   2   |  590    |
+3- CarlosJose 100-57   |   4   |  570  S |
+4- Kleydi     100-56   |   5   |  560  C |
+5- Daniel     100-54   |   7   |  540  R |
+6- Erycherd   100-53   |   8   |  530  R | 
+7- Steven     100-49   |   11  |  490  * |
+8- OscarG     038-25   |   -   |  000    |
 ------------------------------------------
 
 # K = 🦅 no caza 🦟
