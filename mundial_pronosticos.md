@@ -4,25 +4,38 @@
 
 # Mundial de Pronosticos #
 
-Jornadas 40
-Juegos 100
+Jornadas 42
+Juegos 108
+(TODOS DEBEMOS 3)
 
 
 # Posiciones #         |  DIF  |  PCT    |
 ------------------------------------------
-1- Eduardo    100-61   |   -   |  610  K |
-2- Christian  100-59   |   2   |  590    |
-3- CarlosJose 100-57   |   4   |  570  S |
-4- Kleydi     100-56   |   5   |  560  C |
-5- Daniel     100-54   |   7   |  540  R |
-6- Erycherd   100-53   |   8   |  530  R | 
-7- Steven     100-49   |   11  |  490  * |
-8- OscarG     038-25   |   -   |  000    |
+1- Christian  108-67   |   -   |  620  CP|
+2- Eduardo    108-65   |   2   |  600  K |
+3- JalaBola   108-65   |   2   |  600 🐔 |
+4- Kleydi     108-63   |   4   |  580    |
+5- Erycherd   108-61   |   6   |  565    |
+6- Daniel     108-60   |   7   |  555 🚑 | 
+7- Steven     108-56   |   11  |  520 👨‍🦽 |
+8- OscarG     066-40   |   -   |  000 🐸 |
 ------------------------------------------
 
-# K = 🦅 no caza 🦟
-#   = Dan Caligueva
-# S = Sueña con ganarle al KING
-# C = En consulta medica
-# R = Rehabilitacion
-# * = Unidad de cuidados intensivos (UCI)
+# K  = 🦅 no caza 🦟
+# CP = COPION
+# 🐔 = Sueña con ganarle al KING(Gallina)
+# C  = En consulta medica
+# R  = Rehabilitacion
+# 🚑 = Unidad de cuidados intensivos (UCI)
+# 👨‍🦽 = Liga Paralimpica
+# 🐸 = Retirado por 🐸
+
+# CR96
+Tampa
+Milwuakee
+Anahein
+
+# elKing
+Atlanta
+SanDiego
+Tampa
