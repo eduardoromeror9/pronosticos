@@ -4,19 +4,19 @@
 
 # Mundial de Pronosticos #
 
-Jornadas 43
-Juegos 111
+Jornadas 44
+Juegos 112
 
 
 # Posiciones #        |  DIF  |  PCT     |
 ------------------------------------------
-1- AlKing    111-67   |   -   |  605  K  |
-2- Christian 111-67   |   -   |  605  CP |
-3- JalaBola  111-67   |   -   |  605  🐔 |
-4- Kleydi    111-65   |   2   |  585  C  |
-5- Daniel    111-62   |   5   |  560  C  |
-6- Erycherd  111-62   |   5   |  560  R  | 
-7- Steven    111-58   |   9   |  520  🚑 |
+1- AlKing    112-69   |   -   |  615  K  |
+2- Christian 112-69   |   -   |  615  CP |
+3- JalaBola  112-68   |   1   |  605  🐔 |
+4- Kleydi    112-65   |   4   |  580  C  |
+5- Daniel    112-64   |   5   |  570  C  |
+6- Erycherd  112-63   |   6   |  560  R  | 
+7- Steven    112-60   |   9   |  535  🚑 |
 8- OscarG    066-40   |   -   |  000  🐸 |
 ------------------------------------------
 
